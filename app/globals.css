@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+/* RS Solutions–inspired palette: deep blue (primary), vibrant green (accent), charcoal text */
+:root {
+  --background: #f8fafc;
+  --foreground: #1e293b;
+  --brand-blue: #2563eb;
+  --brand-blue-light: #3b82f6;
+  --brand-blue-deep: #1d4ed8;
+  --brand-green: #22c55e;
+  --brand-green-deep: #16a34a;
+  --muted: #64748b;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-brand: var(--brand-blue);
+  --color-brand-accent: var(--brand-green);
+  --font-sans: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
