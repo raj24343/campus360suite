@@ -25,7 +25,7 @@ const Footer = () => {
                 <div className="p-1 flex items-center justify-center">
                   <img
                     src="/rs-solutions-logo.png"
-                    alt="RS Solutions"
+                    alt="RS SOLUTIONS"
                     style={{ width: "140px", height: "auto" }}
                     className="object-contain"
                   />

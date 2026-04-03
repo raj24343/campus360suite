@@ -66,7 +66,7 @@ const pillars: PillarData[] = [
                 sections: [
                     {
                         title: "Overview",
-                        content: "The Circular Management System in S Campus provides a structured approach to creating, managing, and distributing official announcements across the institution. It ensures that communication remains clear and relevant by allowing circulars to be targeted to specific users such as classes, departments, or the entire campus, while also supporting priority levels and attachments to improve the quality and effectiveness of information delivery.",
+                        content: "The Circular Management System in RS SOLUTIONS provides a structured approach to creating, managing, and distributing official announcements across the institution. It ensures that communication remains clear and relevant by allowing circulars to be targeted to specific users such as classes, departments, or the entire campus, while also supporting priority levels and attachments to improve the quality and effectiveness of information delivery.",
                         image: "https://img.freepik.com/premium-vector/report-result-analyze-inspection-review-icon-paper-sheet-audit-sales-growth-graph-data-overview_101884-2320.jpg?semt=ais_incoming&w=740&q=80"
                     },
                     {

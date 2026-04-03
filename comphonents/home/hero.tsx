@@ -41,7 +41,7 @@ export default function Hero() {
   const circleScale = useTransform(smoothProgress, [0, 0.25], [1, 30]);
   const circleOpacity = useTransform(smoothProgress, [0, 0.2, 0.3], [1, 1, 0]);
 
-  // Text shifts to brand blue (RS Solutions primary)
+  // Text shifts to brand blue (RS SOLUTIONS primary)
   const textColor = useTransform(smoothProgress, [0, 0.25], ["#FFFFFF", "#3b82f6"]);
   const textScale = useTransform(smoothProgress, [0, 0.3], [0.85, 1]);
 
